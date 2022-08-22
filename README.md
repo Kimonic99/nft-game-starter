@@ -6,5 +6,5 @@ Each hit by the playing character is reciprocated by a hit from the Boss.
 
 The game is currently connecting to an already deployed contract on the Polygon Mumbai blockchain. 
 If you wish to use it yourself, you can change the contract address in the file src/constants.jsx. 
-Remember to copy and past the ABI file in src/utils/MyEpicGame.json Source file for the smart contract deployed can be found here:
+Remember to copy and past the ABI file in src/utils/MyEpicGame.json Source file for the smart contract deployed can be found here: <br>
 https://nft-game-starter.vercel.app/
